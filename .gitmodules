@@ -1,0 +1,4 @@
+[submodule "polygeist"]
+	path = polygeist
+	url = git@github.com:Jason048/Polygeist.git
+	branch = scalehls-pom
